@@ -11,3 +11,4 @@ There is a perfect linear relationship between the salary and the job experience
 Salary prediction is a popular problem among the Data Science community for complete beginners. Through this regression analysis, we found a perfect linear relationship between the salary and the job experience of the people. 
 
 # Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
