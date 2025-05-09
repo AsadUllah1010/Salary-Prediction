@@ -6,6 +6,8 @@ or salary prediction, we need to find relationships in the data on how the salar
 2. salary
 <br>
 There is a perfect linear relationship between the salary and the job experience of the people. It means more job experience results in a higher salary.
+
 # Conclusion
 Salary prediction is a popular problem among the Data Science community for complete beginners. Through this regression analysis, we found a perfect linear relationship between the salary and the job experience of the people. 
+
 # Contributing
